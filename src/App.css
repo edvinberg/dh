@@ -1,5 +1,23 @@
+#root {
+  margin: 0;
+  height: 100%;
+
+}
+
 .App {
+  margin: 0;
+  height: 100%;
   text-align: center;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+.App-intro__title{
+  /*width: 50%;*/
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 }
 
 .App-logo {
@@ -15,10 +33,16 @@
 }
 
 .App-intro {
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
   font-size: large;
 }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  to { transform: rotate(180deg); }
 }
