@@ -12,7 +12,7 @@ class App extends Component {
           {/*<h2>Welcome to React</h2>*/}
         {/*</div>*/}
         <div className="App-intro">
-          <div className="App-intro__title">DAGGHÄTTA</div>
+          {/*<div className="App-intro__title">DAGGHÄTTA</div>*/}
             <img src={logo} className="App-logo" alt="logo" />
         </div>
 
