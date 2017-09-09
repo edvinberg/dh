@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './logo.jpeg';
 import './App.css';
 
 class App extends Component {
@@ -12,7 +12,9 @@ class App extends Component {
           {/*<h2>Welcome to React</h2>*/}
         {/*</div>*/}
         <div className="App-intro">
-          <div className="App-intro__title">DAGGHÄTTA</div>
+          {/*<div className="App-intro__title">DAGGHÄTTA</div>*/}
+
+            <img src={logo} className="App-logo" width="460" height="345" />
         </div>
 
       </div>
