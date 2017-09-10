@@ -23,3 +23,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
