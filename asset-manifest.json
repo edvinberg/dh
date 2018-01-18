@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.a1112f12.css",
-  "main.css.map": "static/css/main.a1112f12.css.map",
-  "main.js": "static/js/main.74d49005.js",
-  "main.js.map": "static/js/main.74d49005.js.map",
+  "main.css": "static/css/main.5529f16d.css",
+  "main.css.map": "static/css/main.5529f16d.css.map",
+  "main.js": "static/js/main.54a62a8d.js",
+  "main.js.map": "static/js/main.54a62a8d.js.map",
+  "static/media/babybody.jpg": "static/media/babybody.fb732470.jpg",
+  "static/media/box.jpg": "static/media/box.e208b76a.jpg",
+  "static/media/box2.jpg": "static/media/box2.84484717.jpg",
+  "static/media/loggaF.jpg": "static/media/loggaF.78861143.jpg",
+  "static/media/loggatran.png": "static/media/loggatran.c9f76a59.png",
   "static/media/logo.jpeg": "static/media/logo.b1f13618.jpeg"
 }
