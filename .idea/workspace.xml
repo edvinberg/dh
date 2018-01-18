@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ae1d41-5ca8-4b25-9324-994897c7b562" name="Default" comment="removed CNAME">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/Logo33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/babybody.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/box2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/loggaF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/loggatran.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/absoluteico/AbsoluteIco.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/absoluteico/absoluteico.css" />
+    <list default="true" id="80ae1d41-5ca8-4b25-9324-994897c7b562" name="Default" comment="added absolute ico and grid started">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="" />
@@ -19,11 +11,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/logo.jpeg" afterPath="$PROJECT_DIR$/src/img/logo.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/logo.svg" afterPath="$PROJECT_DIR$/src/img/logo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
     </list>
     <ignored path="dh-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,15 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <first_editor relative-caret-position="250">
+                <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -101,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -250,11 +237,6 @@
             <path>
               <item name="dh-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="dh-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dh-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dh-web" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dh-web" type="b2602c69:ProjectViewProjectNode" />
@@ -796,7 +778,7 @@
       <workItem from="1504985753092" duration="11705000" />
       <workItem from="1511107265088" duration="762000" />
       <workItem from="1516130862151" duration="5551000" />
-      <workItem from="1516212219218" duration="4433000" />
+      <workItem from="1516212219218" duration="4554000" />
     </task>
     <task id="LOCAL-00001" summary="fix homepage">
       <created>1503134646621</created>
@@ -931,11 +913,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511107591103</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added absolute ico and grid started">
+      <created>1516255800617</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1516255800617</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30234000" />
+    <option name="totallyTimeSpent" value="30355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="23" width="1436" height="801" extended-state="0" />
@@ -1063,7 +1052,8 @@
     <MESSAGE value="added homepage to json" />
     <MESSAGE value="removed CNAME" />
     <MESSAGE value="changed favicon and title" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed favicon and title" />
+    <MESSAGE value="added absolute ico and grid started" />
+    <option name="LAST_COMMIT_MESSAGE" value="added absolute ico and grid started" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1344,20 +1334,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1428,6 +1404,20 @@
         <state relative-caret-position="180">
           <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="250">
+            <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
