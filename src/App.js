@@ -1,9 +1,6 @@
 import React, {Component} from 'react';
-import logo from './img/logo.jpeg';
-import logoText from './img/loggaF.jpg';
-import box from './img/box.jpg';
-import box2 from './img/box2.jpg';
-import babybody from './img/babybody.jpg';
+// import logo from './img/logo.jpeg';
+import logo from './img/slogan.png';
 import './App.css';
 import AbsuluteIco from './absoluteico/AbsoluteIco';
 
@@ -15,6 +12,15 @@ class App extends Component {
                 <AbsuluteIco/>
                 <div className="App-intro">
                     <img src={logo} className="App-logo" alt="logo" />
+                    {/*<div>*/}
+                        {/*<p>*/}
+                            {/*<div><strong>Tel</strong> 0727405966</div>*/}
+                            {/*<div><strong>E-post</strong> info@dagghatta.com</div>*/}
+
+
+                        {/*</p>*/}
+
+                    {/*</div>*/}
                 </div>
                 {/*<div className="body">*/}
 
